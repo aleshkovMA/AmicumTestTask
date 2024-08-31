@@ -1,0 +1,4 @@
+repository "taskAmicum@unity_eGOfVj8EYdGiWg@cloud"
+  path "/"
+    smartbranch "/main/Development"     
+     
